@@ -19,8 +19,8 @@ Mockito ашиглан хамааралтай классуудын mock объе
 | Үзүүлэлт | Хувилбар / Тохиргоо |
 |---|---|
 | Үйлдлийн систем | Arch Linux |
-| Java | OpenJDK 17 |
-| Maven | 3.9.16 |
+| Java | OpenJDK 17.0.21.0.3 |
+| Maven | 3.10.0 |
 | Unit testing framework | JUnit 5 |
 | Mocking framework | Mockito |
 | Build tool | Apache Maven |
